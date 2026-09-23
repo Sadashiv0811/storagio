@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "storagio-ce383",
+                    "appId": "1:1070512925455:android:628c887f78b9a6c484ec7a",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "storagio-ce383",
+                    "configurations": {
+                        "android": "1:1070512925455:android:628c887f78b9a6c484ec7a",
+                        "ios": "1:1070512925455:ios:413279825652e56184ec7a",
+                        "web": "1:1070512925455:web:1751f47a0a9ffa7f84ec7a"
+                    }
+                }
+            }
+        }
+    }
+}

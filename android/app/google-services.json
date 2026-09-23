@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1070512925455",
+    "project_id": "storagio-ce383",
+    "storage_bucket": "storagio-ce383.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070512925455:android:628c887f78b9a6c484ec7a",
+        "android_client_info": {
+          "package_name": "com.example.storagio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070512925455-cla5b38jnlsdte08bds5e688ae3bl0l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storagio",
+            "certificate_hash": "88edfd8c1ad6bc02dc40b8d744121f6729de4bc8"
+          }
+        },
+        {
+          "client_id": "1070512925455-k854olp4aji1ljrl3ajdbokg4t3fb0bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMq-OhibiXrgBmTV-bbf5lDCpj02U9gLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070512925455-k854olp4aji1ljrl3ajdbokg4t3fb0bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070512925455-jvasl5sab2od9nifd5opidajaa6d01lc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storagio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
